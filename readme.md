@@ -23,12 +23,13 @@ Crear un nuevo frontend para [TMDB](www.themoviedb.org) (The Movie DB) utilizand
 
 #### 1.3.1 - Entregas
 El equipo deberá planificar y patuar entregas del trabajo práctico con el equipo docente. Indicando las fechas de entrega el alcance y los criterios de aceptación.
+
 Las mismas podrán volverse a pactar con los profesores enviando las correcciones a la misma indicando, causas, acciones correctivas que se tomarán y nuevo cronograma.
 
 #### 1.3.2 - Reuniones de avance
 A su vez deberán hacer reuniones periódicas para planificar las acciones a realizar y los responsables entre una reunión y otra. La periodicidad la definirán los miembros del equipo pero no podrá ser menor a 1 por semana.
-En la misma deberán indicar: fecha de la reunión, asistentes, por cada asistenet
- y para cada asistente:
+
+En la misma deberán indicar: fecha de la reunión, asistentes y por cada asistente:
 * Tareas completadas desde la última reunión
 * Blockers
 * Tareas a realizar hasta la próxima reunión
@@ -51,5 +52,7 @@ En la misma deberán indicar: fecha de la reunión, asistentes, por cada asisten
 
 ## 3 - Entrega final
 La entrega final deberá hacerse enviando por email a los profesores la URL del repositorio de git.
+
 En el archivo readme.md deberá indicarse, el trabajo, año de cursado e integrantes (legajo, nombre y apellido)
+
 Fecha de entrega final: TBD
