@@ -18,7 +18,6 @@ Crear un nuevo frontend para [TMDB](www.themoviedb.org) (The Movie DB) utilizand
 * Debe permitir al usuario
   * Loguearse (no es necesario incluir el registro de usuarios)
   * Puntuar la pelicula
-  * Crear una review
 
 ### 1.3 - Planificación y documentación
 
