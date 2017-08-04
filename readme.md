@@ -39,7 +39,7 @@ En la misma deberán indicar: fecha de la reunión, asistentes y por cada asiste
 ### 2.1 - Sitio
 * Usabilidad del sitio: debe ser fácil de usar, elegante y no tener contenido oculto o difícil de acceder
 * Diseño adecuado de la interfaz: uso apropiado de los tags html y de los estilos, ya sea utilizando un FW CSS o un preprocesador.
-* Calidad del código: uso adecuado de las características del FW y de la API.
+* Calidad del código: uso adecuado de las características del FW y de la API. Para Angular usar la guia de estilos oficial [Angular.io Styleguide](https://angular.io/guide/styleguide) [HTML CSS StyleGuide de google](https://google.github.io/styleguide/htmlcssguide.html)
 * Completitud de los requerimientos.
 
 ### 2.2 - Planificación
