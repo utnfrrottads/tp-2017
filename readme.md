@@ -6,7 +6,7 @@ Crear un nuevo frontend para [TMDB](www.themoviedb.org) (The Movie DB) utilizand
 * Un framework de frontend. Se propone Angular pero se admitirán otros. Quienes quieran utilizar otro deberán consultar con los profesores antes de hacerlo.
 * Utilizar html 5.
 * Crear los css usando un framework (bootstrap, foundation, etc) o un preprocesador (less, sass, stylus).
-* El backend a utilizar puede ser la API de TMDB ([api oficial](https://www.themoviedb.org/documentation/api?language=es)) o el backend provisto por la cátedra en este [repositorio](tbd)
+* El backend a utilizar puede ser la API de TMDB ([api oficial](https://www.themoviedb.org/documentation/api?language=es)) o el backend provisto por la cátedra en este [repositorio](https://github.com/utnfrrottads/tmdb-server)
 
 ### 1.2 - Funcionalidad
 * Página principal que permita buscar películas en tmdb. Al seleccionar una película debe redirigir a la página de dicha película.
